@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: react-frontend
-  description: A useless React frontend app. Now updated.
+  description: A useless React frontend app.
   annotations:
     github.com/project-slug: edodusi/ci_react_demo
     backstage.io/source-location: url:https://github.com/edodusi/ci_react_demo
