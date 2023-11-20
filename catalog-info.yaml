@@ -13,5 +13,5 @@ metadata:
       icon: catalog
 spec:
   type: service
-  owner: devs
-  lifecycle: production
+  owner: user:guest
+  lifecycle: experimental
