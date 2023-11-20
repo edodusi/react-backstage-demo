@@ -12,6 +12,6 @@ metadata:
       title: Frontend URL
       icon: catalog
 spec:
-  type: website
+  type: service
   owner: devs
   lifecycle: production
