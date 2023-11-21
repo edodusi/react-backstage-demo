@@ -15,5 +15,7 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+  dependsOn:
+    - test-component
   consumesApis:
     - test-api
