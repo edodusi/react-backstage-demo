@@ -15,4 +15,5 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  consumesApis: test-api
+  consumesApis:
+    - test-api
